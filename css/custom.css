@@ -19,5 +19,6 @@ footer {
 ul { 
     display:table;
     margin:0 auto;
-    text-align: left
+    text-align: left;
+    color: dimgray
 }
