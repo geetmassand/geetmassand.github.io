@@ -22,3 +22,9 @@ ul {
     text-align: left;
     color: dimgray
 }
+
+img {
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+}
