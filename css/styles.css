@@ -1,0 +1,78 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  background-color: #e3fdfd;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 20px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+
+}
+
+.programmer{
+  margin: 10px auto 10px auto;
+  height: 450px;
+  width: 450px;
+}
+
+.round-images{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+}
+
+.horizontal-rule{
+  border-top: 5px;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: dotted;
+  height: 10px;
+  width: 5%;
+  margin: auto auto;
+  color: lightgrey;
+}
+
+.round-images-skills{
+  width: 100px;
+  height: 100px;
+}
+
+.nonround-images-skills{
+  height: 100px;
+  width: 100px;
+}
+
+.skill-row{
+  margin: 30px auto 30px auto;
+  width: 25%;
+}
+
+.h2-colored{
+  color: #71c9ce;
+}
