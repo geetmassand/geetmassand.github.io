@@ -31,7 +31,8 @@ h3{
 }
 
 .bottom-container{
-
+  background-color: #e3fdfd;
+  line-height: 2;
 }
 
 .programmer{
@@ -75,4 +76,66 @@ h3{
 
 .h2-colored{
   color: #71c9ce;
+}
+
+.email-gif{
+  width: 10%;
+}
+
+.get-in-touch{
+  margin-top: 0px;
+}
+
+.submit-button{
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  color: #FFFFFF;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #71C9CE;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.submit-button:hover {
+  background: #717171;
+  border: solid #FFFFFF 0;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+}
+
+.copyright{
+  margin-bottom: 0;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #2f5d62;
+}
+
+.footer-link:hover{
+  color: #94edf7;
+}
+
+.socials{
+  margin: auto 10px;
+}
+
+.linkedin{
+  text-align: left;
+}
+
+.github{
+  text-align: center;
+}
+
+.instagram{
+  text-align: right;
 }
